@@ -1,0 +1,13 @@
+.lang {
+  display: flex;
+  align-items: flex-end;
+  margin: 0;
+  padding: 0 0 5px 0;
+  list-style-type: none;
+}
+
+@media screen and (max-width:320px) {
+  .lang {
+    padding: 0 0 7px 0;
+  }
+}

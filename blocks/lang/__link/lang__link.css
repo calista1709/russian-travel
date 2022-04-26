@@ -1,0 +1,16 @@
+.lang__link {
+  margin-left: 18px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: normal;
+  color: #fff;
+  text-decoration: none;
+}
+
+@media screen and (max-width:320px) {
+ .lang__link {
+   font-size: 18px;
+   line-height: 1.1;
+ }
+}
