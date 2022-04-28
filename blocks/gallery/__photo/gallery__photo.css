@@ -1,0 +1,25 @@
+.gallery__photo {
+  min-width: 284px;
+  min-height: 213px;
+}
+
+@media screen and (max-width:1024px) {
+  .gallery__photo {
+    min-width: 300px;
+    min-height: 225px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .gallery__photo {
+    min-width: 352px;
+    min-height: 264px;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .gallery__photo {
+    min-width: 288px;
+    min-height: 216px;
+  }
+}
