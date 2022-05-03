@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:400px) {
   .gallery__list {
     grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
     gap: 12px;

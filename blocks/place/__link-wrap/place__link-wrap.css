@@ -1,0 +1,11 @@
+.place__link-wrap {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+@media screen and (max-width:450px) {
+  .place__link-wrap {
+    padding: 0 16px 31px 16px;
+  }
+}
