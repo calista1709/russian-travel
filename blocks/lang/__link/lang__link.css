@@ -6,6 +6,11 @@
   font-weight: normal;
   color: #fff;
   text-decoration: none;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.lang__link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width:320px) {

@@ -19,7 +19,7 @@
 
 @media screen and (max-width:320px) {
   .lead {
-    padding: 48px 0 64px 0;
+    padding-bottom: 64px;
   }
 }
 
